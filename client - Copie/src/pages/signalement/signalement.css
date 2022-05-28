@@ -1,0 +1,18 @@
+.signalement{
+    flex: 4;
+}
+.back{
+    border: none;
+      border-radius: 10px;
+      padding: 8px 15px;
+      background-color: #5f39c9;
+      color: white;
+      cursor: pointer;
+      margin-left: 260px;
+      margin-top: 80px;
+    
+}
+
+.resultat{
+    margin-left: 200px;
+}

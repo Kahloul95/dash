@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    margin-top: 10px;
+}
+
+.link{
+    text-decoration: none;
+    color: inherit;
+}
+
+.fix-container{
+    max-width: 1600px !important;
+}
+.mapContainerv{
+    height: 400px;
+    width: 400px;
+}
